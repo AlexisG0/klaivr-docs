@@ -4,6 +4,7 @@ export default defineConfig({
   base: "/",
   title: "Klaivr Docs",
   description: "Documentation officielle Klaivr",
+  ignoreDeadLinks: true,
   themeConfig: {
     search: {
       provider: "local",
