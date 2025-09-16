@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: "/",
   title: "Klaivr Docs",
   description: "Documentation officielle Klaivr",
   themeConfig: {

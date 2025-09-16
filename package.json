@@ -6,6 +6,6 @@
     "vercel-build": "vitepress build docs"
   },
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "^1.0.0"
   }
 }
